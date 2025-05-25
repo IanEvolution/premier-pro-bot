@@ -15,3 +15,8 @@ Thumbs.db
 
 # Misc
 *.log
+
+# Adobe CEP extension build
+premiere-ai-ideas/.DS_Store
+premiere-ai-ideas/*.log
+premiere-ai-ideas/node_modules/
